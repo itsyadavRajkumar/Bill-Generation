@@ -1,5 +1,5 @@
 
-# MERN Stack Invoicing Application
+# MERN Stack Bill-Generation Application
 Built with the MERN stack (MongoDB, Express, React and NodeJS).
 
 
